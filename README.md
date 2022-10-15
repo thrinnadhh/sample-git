@@ -109,5 +109,15 @@ To reset to the last commit changes we update the changes in the current working
 
 Now adding some text tot the text.txt for rest to work
 
+cmnd 14:
 
+To reset to the commit one 
+
+    git reset <commit>
+
+cmnd 15:
+
+To change the working directory also we use
+
+    git reset --hard <commit>
 
