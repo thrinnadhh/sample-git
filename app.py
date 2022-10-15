@@ -1,0 +1,1 @@
+print("Industry Ready projects")
