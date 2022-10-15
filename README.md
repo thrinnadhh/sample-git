@@ -98,3 +98,13 @@ Creating the file text.txt to show the reset commands
     git add . && git commit -m "TO analyze the reset commands"
 
     git push origin main
+
+To reset to the last commit changes we use not touching the current working directory
+
+    git reset 
+
+To reset to the last commit changes we update the changes in the current working directory
+
+    git reset --hard
+
+
