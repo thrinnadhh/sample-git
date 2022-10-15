@@ -119,5 +119,7 @@ cmnd 15:
 
 To change the working directory also we use
 
+updating the text.txt with some msg to check for the git reset using commit
+
     git reset --hard <commit>
 
