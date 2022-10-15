@@ -78,3 +78,22 @@ Config the curr branch with user name and mail
 
     git config --global user.email thrinnadhh369.b98@gmail.com
 
+    git add . && git commit -m "update Readme and requiremts.txt"
+     
+    git push origin webdeveloper
+
+cmnd 12:
+To show the diff between the curr directory and last commit
+    git diff HEAD
+
+To show the diff between the stages and the last commit.
+    git diff --cached
+
+cmnd 13:
+
+Creating the file text.txt to show the reset commands
+    Before resetting the changes we need to save it so 
+
+    git add . && git commit -m "TO analyze the reset commands"
+
+    git push origin main
