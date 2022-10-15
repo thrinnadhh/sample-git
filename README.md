@@ -58,5 +58,23 @@ Pushing the changes to the main branch
 To switch the branch 
 
     git checkout webdeveloper
+
 How ever before pushing we need to update the current writing msg also....
+
+cmnd 10:
+To pull all the updated code to the current working directory we need to use
+
+    git pull origin main
+
+Creating the file requirements.txt
+    pandas
+    numpy
+    sklearn
+
+cmnd 11:
+Config the curr branch with user name and mail
+    
+    git config --global user.name 3nnadhh
+
+    git config --global user.email thrinnadhh369.b98@gmail.com
 
