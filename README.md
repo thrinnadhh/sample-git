@@ -83,6 +83,7 @@ Config the curr branch with user name and mail
     git push origin webdeveloper
 
 cmnd 12:
+
 To show the diff between the curr directory and last commit
     git diff HEAD
 
