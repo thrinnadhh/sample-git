@@ -107,4 +107,7 @@ To reset to the last commit changes we update the changes in the current working
 
     git reset --hard
 
+Now adding some text tot the text.txt for rest to work
+
+
 

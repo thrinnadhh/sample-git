@@ -1,1 +1,5 @@
 Use case for the git hub reset commands
+
+Checking for the reset to either working or not
+
+Hello mr lucifer
